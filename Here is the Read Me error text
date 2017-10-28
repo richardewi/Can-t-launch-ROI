@@ -1,0 +1,176 @@
+[2017-10-28 @ 00:19:59.070] [configure] configuring C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry
+[2017-10-28 @ 00:19:59.528] [configure] native-configure yielded execs: [
+  "Rise of Industry - Public Alpha - Windows.exe"
+]
+[2017-10-28 @ 00:19:59.540] [configure/compute-size] computing size of C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry
+[2017-10-28 @ 00:20:00.102] [configure] total size of C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry: 791.25 MB (829687687 bytes)
+[2017-10-28 @ 00:20:13.433] [launch] itch 23.4.2 launching game 145076: Rise of Industry
+[2017-10-28 @ 00:20:13.435] [launch] looking for manifest @ "C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\.itch.toml"
+[2017-10-28 @ 00:20:13.439] [launch] No manifest found (no '.itch.toml' file in top-level directory). Proceeding with heuristics.
+[2017-10-28 @ 00:20:13.440] [launch] launching prepare for native
+[2017-10-28 @ 00:20:13.442] [prepare/native] launching windows-prereqs
+[2017-10-28 @ 00:20:13.455] [windows-prereqs] no manifest, nothing to do
+[2017-10-28 @ 00:20:13.471] [launch/native] cave location: "appdata/Rise of Industry"
+[2017-10-28 @ 00:20:13.476] [launch/native] no manifest action picked
+[2017-10-28 @ 00:20:13.480] [launch/poker] initial candidate set: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 0,
+    "depth": 0,
+    "score": 0
+  }
+]
+[2017-10-28 @ 00:20:13.554] [launch/poker] candidates after poking: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 23436800,
+    "depth": 1,
+    "score": 100
+  }
+]
+[2017-10-28 @ 00:20:13.555] [launch/poker] candidates after sorting: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 23436800,
+    "depth": 1,
+    "score": 100
+  }
+]
+[2017-10-28 @ 00:20:13.556] [launch/native] executing 'C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe' on 'windows' with args ''
+[2017-10-28 @ 00:20:13.556] [launch/native] no app isolation
+[2017-10-28 @ 00:20:13.560] [launch/native] spawn command: "C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe"
+[2017-10-28 @ 00:20:13.561] [launch/native] working directory: C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry
+[2017-10-28 @ 00:20:13.653] [launch/native] command: C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe
+[2017-10-28 @ 00:20:13.654] [launch/native] args: []
+[2017-10-28 @ 00:20:13.657] [launch/native] env keys: [
+  "TMP",
+  "TEMP"
+]
+[2017-10-28 @ 00:20:13.670] [launch] error while launching 70f055ff-e380-42a4-959b-26456f04678a: spawn UNKNOWN
+[2017-10-28 @ 00:20:13.679] [launch] crashed with spawn UNKNOWN
+[2017-10-28 @ 00:20:13.679] [launch] spawn UNKNOWN
+[2017-10-28 @ 00:20:13.681] [diego] diego here, looking around
+Caption                    OSArchitecture  Version     
+Microsoft Windows 10 Home  32-bit          10.0.15063  
+
+Caption                           MaxClockSpeed  Name                                
+x64 Family 16 Model 6 Stepping 3  3000           AMD Athlon(tm) II X2 B24 Processor  
+
+Name                
+ATI Radeon HD 4200  
+
+diego out
+
+[2017-10-28 @ 00:20:47.199] [launch] itch 23.4.2 launching game 145076: Rise of Industry
+[2017-10-28 @ 00:20:47.200] [launch] looking for manifest @ "C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\.itch.toml"
+[2017-10-28 @ 00:20:47.205] [launch] No manifest found (no '.itch.toml' file in top-level directory). Proceeding with heuristics.
+[2017-10-28 @ 00:20:47.206] [launch] launching prepare for native
+[2017-10-28 @ 00:20:47.208] [prepare/native] launching windows-prereqs
+[2017-10-28 @ 00:20:47.221] [windows-prereqs] no manifest, nothing to do
+[2017-10-28 @ 00:20:47.244] [launch/native] cave location: "appdata/Rise of Industry"
+[2017-10-28 @ 00:20:47.249] [launch/native] no manifest action picked
+[2017-10-28 @ 00:20:47.252] [launch/poker] initial candidate set: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 0,
+    "depth": 0,
+    "score": 0
+  }
+]
+[2017-10-28 @ 00:20:47.304] [launch/poker] candidates after poking: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 23436800,
+    "depth": 1,
+    "score": 100
+  }
+]
+[2017-10-28 @ 00:20:47.305] [launch/poker] candidates after sorting: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 23436800,
+    "depth": 1,
+    "score": 100
+  }
+]
+[2017-10-28 @ 00:20:47.306] [launch/native] executing 'C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe' on 'windows' with args ''
+[2017-10-28 @ 00:20:47.306] [launch/native] no app isolation
+[2017-10-28 @ 00:20:47.310] [launch/native] spawn command: "C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe"
+[2017-10-28 @ 00:20:47.310] [launch/native] working directory: C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry
+[2017-10-28 @ 00:20:47.321] [launch/native] command: C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe
+[2017-10-28 @ 00:20:47.322] [launch/native] args: []
+[2017-10-28 @ 00:20:47.322] [launch/native] env keys: [
+  "TMP",
+  "TEMP"
+]
+[2017-10-28 @ 00:20:47.335] [launch] error while launching 70f055ff-e380-42a4-959b-26456f04678a: spawn UNKNOWN
+[2017-10-28 @ 00:20:47.347] [launch] crashed with spawn UNKNOWN
+[2017-10-28 @ 00:20:47.347] [launch] spawn UNKNOWN
+[2017-10-28 @ 00:20:47.349] [diego] diego here, looking around
+Caption                    OSArchitecture  Version     
+Microsoft Windows 10 Home  32-bit          10.0.15063  
+
+Caption                           MaxClockSpeed  Name                                
+x64 Family 16 Model 6 Stepping 3  3000           AMD Athlon(tm) II X2 B24 Processor  
+
+Name                
+ATI Radeon HD 4200  
+
+diego out
+
+[2017-10-28 @ 00:36:30.172] [launch] itch 23.4.2 launching game 145076: Rise of Industry
+[2017-10-28 @ 00:36:30.173] [launch] looking for manifest @ "C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\.itch.toml"
+[2017-10-28 @ 00:36:30.177] [launch] No manifest found (no '.itch.toml' file in top-level directory). Proceeding with heuristics.
+[2017-10-28 @ 00:36:30.178] [launch] launching prepare for native
+[2017-10-28 @ 00:36:30.179] [prepare/native] launching windows-prereqs
+[2017-10-28 @ 00:36:30.193] [windows-prereqs] no manifest, nothing to do
+[2017-10-28 @ 00:36:30.215] [launch/native] cave location: "appdata/Rise of Industry"
+[2017-10-28 @ 00:36:30.223] [launch/native] no manifest action picked
+[2017-10-28 @ 00:36:30.226] [launch/poker] initial candidate set: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 0,
+    "depth": 0,
+    "score": 0
+  }
+]
+[2017-10-28 @ 00:36:30.261] [launch/poker] candidates after poking: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 23436800,
+    "depth": 1,
+    "score": 100
+  }
+]
+[2017-10-28 @ 00:36:30.262] [launch/poker] candidates after sorting: [
+  {
+    "path": "Rise of Industry - Public Alpha - Windows.exe",
+    "weight": 23436800,
+    "depth": 1,
+    "score": 100
+  }
+]
+[2017-10-28 @ 00:36:30.263] [launch/native] executing 'C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe' on 'windows' with args ''
+[2017-10-28 @ 00:36:30.263] [launch/native] no app isolation
+[2017-10-28 @ 00:36:30.267] [launch/native] spawn command: "C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe"
+[2017-10-28 @ 00:36:30.268] [launch/native] working directory: C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry
+[2017-10-28 @ 00:36:30.279] [launch/native] command: C:\Users\RichardewiPC\AppData\Roaming\itch\apps\Rise of Industry\Rise of Industry - Public Alpha - Windows.exe
+[2017-10-28 @ 00:36:30.279] [launch/native] args: []
+[2017-10-28 @ 00:36:30.280] [launch/native] env keys: [
+  "TMP",
+  "TEMP"
+]
+[2017-10-28 @ 00:36:30.302] [launch] error while launching 70f055ff-e380-42a4-959b-26456f04678a: spawn UNKNOWN
+[2017-10-28 @ 00:36:30.314] [launch] crashed with spawn UNKNOWN
+[2017-10-28 @ 00:36:30.314] [launch] spawn UNKNOWN
+[2017-10-28 @ 00:36:30.316] [diego] diego here, looking around
+Caption                    OSArchitecture  Version     
+Microsoft Windows 10 Home  32-bit          10.0.15063  
+
+Caption                           MaxClockSpeed  Name                                
+x64 Family 16 Model 6 Stepping 3  3000           AMD Athlon(tm) II X2 B24 Processor  
+
+Name                
+ATI Radeon HD 4200  
+
+diego out
